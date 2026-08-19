@@ -10,4 +10,4 @@ A consulta deve retornar o **nome_produto** e a **categoria** seguindo os crité
 2. Filtrar apenas produtos da categoria 'Eletrônicos'.
 3. Isolar os produtos encalhados identificando onde o ID da venda retorna como nulo (`IS NULL`).
 
-O resultado deve ser ordenado em **ordem alfabética** pelo nome do produto
+O resultado deve ser em **ordem alfabética** pelo nome do produto
